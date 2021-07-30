@@ -1,1 +1,1 @@
-# XVIII-Chopin-Competition-Statistics-Forntend
+# XVIII-Chopin-Competition-Statistics-Frontend
